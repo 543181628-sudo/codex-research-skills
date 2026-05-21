@@ -1,0 +1,6 @@
+{
+  "name": "desert-carbon-research",
+  "version": "1.0.0",
+  "description": "Research skills for ecological modelling, microbiome analysis, and manuscript writing.",
+  "skills": "./skills/"
+}
