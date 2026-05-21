@@ -1,0 +1,20 @@
+{
+  "name": "codex-research-skills",
+  "interface": {
+    "displayName": "Codex Research Skills"
+  },
+  "plugins": [
+    {
+      "name": "desert-carbon-research",
+      "source": {
+        "source": "local",
+        "path": "./plugins/desert-carbon-research"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
